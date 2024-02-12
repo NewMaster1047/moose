@@ -18,3 +18,4 @@ admin.site.register(Post, PostAdmin)
 admin.site.register(Contact, ContactAdmin)
 admin.site.register(Category)
 admin.site.register(Comment, CommentAdmin)
+
